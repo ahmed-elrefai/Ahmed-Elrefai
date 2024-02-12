@@ -1,5 +1,5 @@
 ### Hi there 👋
-### Automation is Facination!
+Automation is Facination!
 ![Elrefai](https://github.com/Abo-hmeed/Abo-hmeed/assets/114250600/a5e54429-c8d0-4dc7-aa72-0eec3df5fada)
 
 ### ![face gif](https://github.com/Abo-hmeed/Abo-hmeed/assets/114250600/33dd36ce-1654-465e-944a-369c82cca729)
