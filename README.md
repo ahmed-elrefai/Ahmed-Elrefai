@@ -2,8 +2,6 @@
 <h1 align="center">Hey there! I'm Ahmed Elrefai</h1>
 <h3 align="left">CS student in Ain Shams University</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abo-hmeed&label=Profile%20views&color=0e75b6&style=flat" alt="abo-hmeed" /> </p>
-
 - 🌱 I’m currently learning **Automation in python**
 
 - 📫 personal mail: **elrefaayahmed196@gmail.com**
