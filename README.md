@@ -1,4 +1,6 @@
 ### Hi there 👋
+### Automation is Facination!
+### ![face gif](https://github.com/Abo-hmeed/Abo-hmeed/assets/114250600/33dd36ce-1654-465e-944a-369c82cca729)
 
 <!--
 **Abo-hmeed/Abo-hmeed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
