@@ -12,7 +12,8 @@
 
 - 📫 personal mail: **elrefaayahmed196@gmail.com**
 - 
-![face](https://github.com/Abo-hmeed/Abo-hmeed/assets/114250600/328be063-4edc-40a1-ac3a-5e878a7cc8b8)
+![face gif](https://github.com/Abo-hmeed/Abo-hmeed/assets/114250600/cc96a44d-3f94-4a2e-900b-45ce80c19273)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ahmed-elrefai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-elrefai" height="30" width="40" /></a>
