@@ -3,13 +3,12 @@
 <h3 align="Left">CS Student at Ain Shams University 🇪🇬</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abo-hmeed&label=Profile%20views&color=0e75b6&style=flat" alt="abo-hmeed" /> </p>
+<h3 align="center">CS Student at Ain Shams University 🇪🇬</h3>
+
+![face gif](https://github.com/Abo-hmeed/Abo-hmeed/assets/114250600/cc96a44d-3f94-4a2e-900b-45ce80c19273)
+  
 
 - Teaching Python on youtube [El-Reyodev | الرفاعي](https://www.youtube.com/channel/UCuojgaDG9wrlUq_jkKKNfmw)
-  
-![face gif](https://github.com/Abo-hmeed/Abo-hmeed/assets/114250600/cc96a44d-3f94-4a2e-900b-45ce80c19273)
-
-<h1 align="center">Hey there! I'm Ahmed Elrefai</h1>
-<h3 align="center">CS Student at Ain Shams University 🇪🇬</h3>
 
 - I'm managing [E5traat](https://www.facebook.com/profile.php?id=61554362476535)
 
