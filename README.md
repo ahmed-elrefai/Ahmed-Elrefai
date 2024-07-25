@@ -7,11 +7,9 @@
 
 - Teaching Python on youtube [El-Reyodev | الرفاعي](https://www.youtube.com/channel/UCuojgaDG9wrlUq_jkKKNfmw)
 
-- I'm managing [E5traat](https://www.facebook.com/profile.php?id=61554362476535)
-
 - 🌱 I’m currently learning **Python FullStack (django + react)**
 
-- 💬 Ask me about **python development**
+- 💬 Ask me about **python & backend development**
 
 - 📫 personal mail: **elrefaayahmed196@gmail.com**
 
