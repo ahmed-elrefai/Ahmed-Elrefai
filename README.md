@@ -9,9 +9,11 @@
 💻 Software Engineer building AI-powered backends in the AI Era<br>
 🎓 Studying Computer Science at the University of Ain Shams, Cairo<br>
 
-📅 My Current 30-Day Context (last update: 06-NOV)<br>
+📅 My Current 30-Day Context (last update: 23-NOV)<br>
 
-🔍 Exploring RAG (Retrieval-Augmented Generation) and its capabilities🧩 Problem solving on (Codeforces)[https://codeforces.com/ibn-al-refai] — live every week on (YouTube)[https://youtube.com/@ibnalrefai] 🎥<br>
+- Working on my Computer Science Graduation project (the Chat microservice in CSHub)
+- Focusing on my system architecture skills (and streaming about it on youtube @ibnalrefai).
+- studying for my college.
     
 
 <div align="center"> <img src="https://nirzak-streak-stats.vercel.app/?user=ahmed-elrefai&theme=dark&hide_border=false" alt="GitHub Streak Stats" />    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-elrefai&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" /> </div>
