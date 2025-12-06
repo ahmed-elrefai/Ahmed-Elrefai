@@ -9,10 +9,10 @@
 💻 Software Engineer building AI-powered backends in the AI Era<br>
 🎓 Studying Computer Science at the University of Ain Shams, Cairo<br>
 
-📅 My Current 30-Day Context (last update: 23-NOV)<br>
+📅 My Current 30-Day Context (last update: 6th of Dec 2025)<br>
 
-- Working on my Computer Science Graduation project (the Chat microservice in CSHub)
-- Focusing on my system architecture skills (and streaming about it on youtube @ibnalrefai).
+- Working on my Neural network: "Review Sentiment Analyzer" project
+- looking for a job opportunity as a backend developer.
 - studying for my college.
     
 
