@@ -9,11 +9,11 @@
 💻 Software Engineer building AI-powered backends in the AI Era<br>
 🎓 Studying Computer Science at the University of Ain Shams, Cairo<br>
 
-📅 My Current 30-Day Context (last update: 6th of Dec 2025)<br>
+📅 My Current 30-Day Context (last update: 5th of Jan 2026)<br>
 
-- Working on my Neural network: "Review Sentiment Analyzer" project
-- looking for a job opportunity as a backend developer.
-- studying for my college.
+- understanding Problem solving patterns (two pointers, sliding window..)
+- applying constantly for backend job opportunities.
+- studing for my 1st semester final exams.
     
 
 <div align="center"> <img src="https://nirzak-streak-stats.vercel.app/?user=ahmed-elrefai&theme=dark&hide_border=false" alt="GitHub Streak Stats" />    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-elrefai&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" /> </div>
