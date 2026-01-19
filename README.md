@@ -11,9 +11,9 @@
 
 📅 My Current 30-Day Context (last update: 5th of Jan 2026)<br>
 
-- understanding Problem solving patterns (two pointers, sliding window..)
-- applying constantly for backend job opportunities.
-- studing for my 1st semester final exams.
+- studying data structures and solving problems on leetcode
+- looking for some algo heavy project idea with some AI features 
+- currently expecting to serve in military obligation in 2 weeks
     
 
 <div align="center"> <img src="https://nirzak-streak-stats.vercel.app/?user=ahmed-elrefai&theme=dark&hide_border=false" alt="GitHub Streak Stats" />    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-elrefai&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" /> </div>
