@@ -2,7 +2,7 @@
 
 <div align="center"> <img src="https://github.com/user-attachments/assets/f79630ab-dda1-4154-b05b-6321128b8b15" alt="Strong backends quote" width="80%" /> </div>
 
-<h3 align="center"><i>Ahmed O. Elefai</i><a href="https://elreyodev.pythonanywhere.com"> <br><i>my website</i></a></h3>
+<h3 align="center"><i>Ahmed O. Elefai</i><a href="https://ibnalrefai.club"> <br><i>my website</i></a></h3>
 
 # \# whoami
 
