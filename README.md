@@ -1,19 +1,35 @@
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/f79630ab-dda1-4154-b05b-6321128b8b15" alt="Strong backends quote" width="80%" />
+  
+  <h1>Hi, I'm Ahmed O. Elrefai 👋</h1>
+  <p><b>Software Engineer & a System Design savane</b></p>
+  
+  <a href="https://ibnalrefai.club">Website</a> •
+  <a href="https://codevlt.pro">CodeVault</a> •
+  <a href="https://reposense-web.pages.dev">Reposense</a>
+</div>
 
+---
 
-<div align="center"> <img src="https://github.com/user-attachments/assets/f79630ab-dda1-4154-b05b-6321128b8b15" alt="Strong backends quote" width="80%" /> </div>
+### 👨‍💻 `# whoami`
 
-<h3 align="center"><i>Ahmed O. Elefai</i><a href="https://ibnalrefai.club"> <br><i>my website</i></a></h3>
+- 🎓 **Education:** B.Sc. Computer Science & M.Sc. Student (AI & Data Science) @ *Ain Shams University*
+- 💼 **Current Role:** SWE @ *Weels* | Freelance Backend Developer
+- 🏗️ **Specialty:** System Design, Robust Backend Architectures, and AI Integrations
+- 🧠 **Problem Solving:** Competitive Programming (LeetCode & Codeforces)
 
-# \# whoami
+### 🚀 Featured Projects
 
-💻 Software Engineer building AI-powered backends in the AI Era<br>
-🎓 Studying Computer Science at the University of Ain Shams, Cairo<br>
+*   [**CodeVault**](https://codevlt.pro) — A code snippet sharing platform featuring semantic search, built with FastAPI, PostgreSQL, and pgvector.
+*   [**Reposense**](https://reposense-web.pages.dev) — An asynchronous codebase ingestion and repository analysis engine.
 
-📅 My Current 30-Day Context (last update: 19th of Jan 2026)<br>
+### ⚡ Tech Stack & Interests
 
-- studying data structures and solving problems on leetcode
-- looking for some algo heavy project idea with some AI features 
-- currently expecting to serve in military obligation in 2 weeks
-    
+*   **Core:** Python, C++, FastAPI, Django, PostgreSQL, Docker
+*   **Architecture:** Asynchronous Microservices, RAG Pipelines, Autonomous AI Agents
+*   **Favourite IDE:** VS Code in Vim mode.
 
-<div align="center"> <img src="https://nirzak-streak-stats.vercel.app/?user=ahmed-elrefai&theme=dark&hide_border=false" alt="GitHub Streak Stats" />    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-elrefai&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" /> </div>
+<br>
+<div align="center">
+  <i>Building fast, scalable, and intelligent systems.</i>
+</div>
